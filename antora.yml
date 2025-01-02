@@ -1,0 +1,5 @@
+name: papers
+title: Papers
+version: ~
+nav:
+  - modules/ROOT/nav.adoc
