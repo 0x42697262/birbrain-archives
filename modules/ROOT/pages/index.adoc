@@ -1,4 +1,8 @@
-= Papers
+= Archives
 
 My storage stash for PDF papers taken from the internet.
 This is solely for archiving purposes.
+
+== PDFs
+
+. xref:archives:ROOT:attachment$WhyFromNigeria.pdf[Why do Nigerian Scammers Say They are from Nigeria?]
