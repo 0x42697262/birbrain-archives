@@ -5,5 +5,6 @@ This is solely for archiving purposes.
 
 == Papers
 
+. xref:archives:ROOT:attachment$Cyber-040.pdf[The Stuxnet Computer Worm: Harbinger of an Emerging Warfare Capability]
 . xref:archives:ROOT:attachment$WhyFromNigeria.pdf[Why do Nigerian Scammers Say They are from Nigeria?]
 . xref:archives:ROOT:attachment$110.pdf[Why Information Security is Hard – An Economic Perspective]
