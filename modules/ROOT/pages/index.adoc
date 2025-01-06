@@ -8,3 +8,5 @@ This is solely for archiving purposes.
 . xref:archives:ROOT:attachment$Cyber-040.pdf[The Stuxnet Computer Worm: Harbinger of an Emerging Warfare Capability]
 . xref:archives:ROOT:attachment$WhyFromNigeria.pdf[Why do Nigerian Scammers Say They are from Nigeria?]
 . xref:archives:ROOT:attachment$110.pdf[Why Information Security is Hard – An Economic Perspective]
+. xref:archives:ROOT:attachment$Self_Sufficiency_in_Production_Consumpti.pdf[SELF-SUFFICIENCY IN RICE: ANALYSIS OF PRODUCTION, CONSUMPTION, AND IMPORTATION OF THE RICE-PRODUCING REGIONS IN THE PHILIPPINES]
+. xref:archives:ROOT:attachment$pidsdps1650.pdf.pdf[Food (In)security and the Price of Rice Self-Sufficiency]
