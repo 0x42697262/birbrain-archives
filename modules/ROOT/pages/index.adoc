@@ -14,4 +14,6 @@ This is solely for archiving purposes.
 . xref:archives:ROOT:attachment$ewp-368.pdf[Rice Trade and Price Volatility: Implications on ASEAN and Global Food Security]
 . xref:archives:ROOT:attachment$bordey-arida-2015-adoption-of-rice-crop-insurance-in-the-philippines-lessons-from-farmer-apos-s-experience.pdf[Adoption of rice crop insurance in the Philippines: lessons from farmer's experience.]
 . xref:archives:ROOT:attachment$j.chieco.2004.03.001.pdf[Infrastructure and regional economic development in rural China]
-
+. xref:archives:ROOT:attachment$1-s2.0-S2405844023031122-main.pdf[The rise and fall of onion production; its multiple constraints on pre-harvest and post-harvest management issues along the supply chain in northwest Ethiopia]
+. xref:archives:ROOT:attachment$Kshash_2022_IOP_Conf._Ser.__Earth_Environ._Sci._1060_012141.pdf[Constraints Facing Rice Farmers in Iraq]
+. xref:archives:ROOT:attachment$davidson2016.pdf[Why the Philippines Chooses to Import Rice]
