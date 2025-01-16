@@ -20,4 +20,5 @@ This is solely for archiving purposes.
 . xref:archives:ROOT:attachment$pidsdps1916.pdf[Welfare Impacts of Rice Tarrification]
 . xref:archives:ROOT:attachment$pidsdps1236.pdf[Impacts of Natural Disasters on Agriculture, Food Security, and Natural Resources and Environment in the Philippines]
 . xref:archives:ROOT:attachment$blanc2016.pdf[Assessing the Impact of Typhoons on Rice Production in the Philippines]
+. xref:archives:ROOT:attachment$tripathi2017.pdf[DNS Spoofing in Local Networks Made Easy]
 
