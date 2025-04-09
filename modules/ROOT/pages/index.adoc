@@ -25,3 +25,8 @@ This is solely for archiving purposes.
 . xref:archives:ROOT:attachment$ReclaimingOurMinds.pdf[Reclaiming Our Minds: Mitigating the Negative Impacts of Excessive Doomscrolling]
 . xref:archives:ROOT:attachment$MSP.2017.2765202.pdf[Generative Adversarial Networks]
 . xref:archives:ROOT:attachment$ARIMA.pdf[Why Are the ARIMA and SARIMA not Sufficient]
+
+== Books
+
+. xref:archives:ROOT:attachment$introduction_to_modern_cryptography_jonathan_katz_yehuda_lindell.pdf[Introduction to Modern Cryptography]
+. xref:archives:ROOT:attachment$applied_cryptography_bruce_scheier.pdf[Applied Cryptography]
