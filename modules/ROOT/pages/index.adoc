@@ -25,6 +25,7 @@ This is solely for archiving purposes.
 . xref:archives:ROOT:attachment$ReclaimingOurMinds.pdf[Reclaiming Our Minds: Mitigating the Negative Impacts of Excessive Doomscrolling]
 . xref:archives:ROOT:attachment$MSP.2017.2765202.pdf[Generative Adversarial Networks]
 . xref:archives:ROOT:attachment$ARIMA.pdf[Why Are the ARIMA and SARIMA not Sufficient]
+. xref:archives:ROOT:attachment$burke_edmund_k_kendall_graham_2005_search_methodologies_genetic_algorithms_doi_10_1007_0-387-28356-0_4.pdf[Burke, Edmund K.; Kendall, Graham . (2005). Search Methodologies || Genetic Algorithms. , 10.1007/0-387-28356-0(Chapter 4), 97–125. doi:10.1007/0-387-28356-0_4]
 
 == Books
 
